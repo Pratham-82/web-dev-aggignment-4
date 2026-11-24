@@ -1,4 +1,4 @@
-<img width="2522" height="1664" alt="4" src="https://github.com/user-attachments/assets/dc7fd3bf-2eb9-4adf-9c2d-f86a83a97569" /># Secure Connect and Communication Platform
+# Secure Connect and Communication Platform
 
 Lab 4 - Web Dev III
 
